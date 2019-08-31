@@ -1,4 +1,5 @@
-Key factors in superior performances in the best teams:
+## Key factors in superior performances in the best teams
+
 Not:
 
 - more talented people
@@ -6,7 +7,9 @@ Not:
 - better mix of skills
 - more incentivized
 - led by more experienced manager
-  But:
+
+But:
+
 - feel psychologically safe: feel comfortable being vulnerable in the group and taking risks such as sharing an idea that might be perceived as wacky elsewhere
 - feel that their fellow team members were dependable: they trusted one another
 - were clear about team structure
@@ -15,13 +18,15 @@ Not:
 
 Greater social security, in particular members were more empathetic about what others in the team are feeling and thinking.
 
-5 disciplines:
+## 5 disciplines:
 
 - understand generations
 - manage to the one
 - help new people and teams work faster and smarter
 - challenge everything: inspire innovation through healthy discord
 - don't forget your customers
+
+## Generations
 
 Millennials
 
@@ -53,22 +58,21 @@ Complaints from old workers about millennials
 - inappropriate dress
 - expecting too much hand holding
 
-Manager: not as an expert in subject areas but mentors and guides through the corporate experience
-
-Meaningful, frequent, sincere recognition to workers. Appreciation of achievements.
-Fostering collaborative and inclusive problem vs autonomy
+## Motivators
 
 Top 3 motivators
-Millennials: impact, learning, family
-Gen X impact, learning, family
-Boomers impact, learning, family
-Traditionalists impact, learning, creativity
+
+- Millennials: impact, learning, family
+- Gen X impact, learning, family
+- Boomers impact, learning, family
+- Traditionalists impact, learning, creativity
 
 Bottom 3 motivators
-Millennials prestige, autonomy, money
-Gen X fun prestige money
-Boomers fun prestige money
-Traditionalists recognition, prestige money
+
+- Millennials prestige, autonomy, money
+- Gen X fun prestige money
+- Boomers fun prestige money
+- Traditionalists recognition, prestige money
 
 Impact: the need to know your work is important and makes a positive difference in the world
 
@@ -77,6 +81,12 @@ Learning: the wish to keep developing our talents and increasing our knowledge
 Family: feel it's important to balance work and personal time and make their loved ones proud of them. Note: Number one for millennial women
 
 Working long hours does not help employees or company.
+
+## Managers
+
+- not as an expert in subject areas but mentors and guides through the corporate experience
+- meaningful, frequent, sincere recognition to workers. Appreciation of achievements.
+- fostering collaborative and inclusive problem vs autonomy
 
 Adopt simple rituals of recognition
 
