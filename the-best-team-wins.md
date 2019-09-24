@@ -1,4 +1,22 @@
-## Key factors in superior performances in the best teams
+## Solving the modern problems of teamwork
+
+### Hadfield unwritten rule
+
+Described as being the most impactful in bringing the team together:
+
+> Each member of the crew had to do one unsolicited kind thing for every other meber of the crew every single day
+
+### Payoffs
+
+Most effective team:
+
+- more work done + spot problem quicker
+- happier in the job
+- fewer accident/health care cost 50% lower
+- more responsive to customers thanks to diversity of knowledge and experience
+- decentralized decision making and speedier action
+
+### Key factors in superior performances in the best teams
 
 Not:
 
@@ -14,9 +32,16 @@ But:
 - feel that their fellow team members were dependable: they trusted one another
 - were clear about team structure
 - have clarity of plans and goals
-- feel their work would have a positive impact in the world
+- feel their work would have a personal meaning and a positive impact in the world
 
-Greater social security, in particular members were more empathetic about what others in the team are feeling and thinking.
+Greater social sensitivity, in particular members were more empathetic about what others in the team are feeling and thinking.
+
+High performing manager:
+
+- inculcating a clear mission
+- developing more agility in their team members
+- sharing information transparently
+- recognizing individual and team accomplishements
 
 ## 5 disciplines:
 
