@@ -43,13 +43,13 @@ High performing manager:
 - sharing information transparently
 - recognizing individual and team accomplishements
 
-## 5 disciplines:
+### 5 disciplines:
 
-- understand generations
-- manage to the one
-- help new people and teams work faster and smarter
+- understand generations: Help Millenials, Gen Xers and Boomers get along
+- manage to the one: Give the man his guitar
+- speed productivity: help new people and teams work faster and smarter
 - challenge everything: inspire innovation through healthy discord
-- don't forget your customers
+- don't forget your customers: create alignement around serving them
 
 ## Generations
 
